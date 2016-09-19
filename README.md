@@ -5,7 +5,7 @@ This is an open source extension for [alis.io](http://alis.io/)<br/>
 
 This is a simple script to modify the page style of alis.io to the old version.<br/>
 I had posted this in the forum [alisio.ml](http://aforum.tk/), but Greed decided removed it.<br/>
-all styles were subtracted from [TEAMHI](http://teamhi.net/)
+all styles were subtracted from **[TEAMHI](http://teamhi.net/)**
  
 ### Contact
 
