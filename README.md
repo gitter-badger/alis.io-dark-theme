@@ -1,4 +1,6 @@
 # Alis.io Dark Theme
+
+[![Join the chat at https://gitter.im/miyakedev/alis.io-dark-theme](https://badges.gitter.im/miyakedev/alis.io-dark-theme.svg)](https://gitter.im/miyakedev/alis.io-dark-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is an open source extension for [alis.io](http://alis.io/)<br/>
 
 **Languages : Jquery, CSS**
